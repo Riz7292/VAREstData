@@ -1,0 +1,31 @@
+{
+  "Data": [
+    {
+      "objectid": 1,
+      "unitNumber": "U",
+      "unitName": "Continuous Catalytic Regeneration",
+      "operationAreaNumber": 1,
+      "controlRoom": "MainCPR",
+      "evacuationZoneNumber": "3A-cB",
+      "hazardClassificationId": "High",
+      "unitLabel": "Unit",
+      "source": "Unit",
+      "hazardClassificationName": "High",
+      "statusValue": 1,
+      "alternateEglid": "2",
+      "alternateEglname": "",
+      "alternateEgltitle": "Shift Controller-1 of unaffected area. (OA-3 or OA-4 -MAA)",
+      "alternateEglmobile": "99639717",
+      "alternateEglextension": "81555",
+      "alternateEglemail": null,
+      "evacuationGroupLeaderContactId": "1",
+      "evacuationGroupLeaderName": null,
+      "evacuationGroupLeaderTitle": "TL,OA-4-KLOAA\n",
+      "evacuationGroupLeaderMobile": 767796572,
+      "evacuationGroupLeaderExtension": 767796572,
+      "evacuationGroupLeaderEmail": null,
+      "shapE_STArea__": 7802.99206543,
+      "shapE_STLength__": 384.83763412
+    }
+  ]
+}
