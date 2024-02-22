@@ -1,6 +1,4 @@
 {
-  "Data": [
-    {
       "objectid": 1,
       "unitNumber": "U",
       "unitName": "Continuous Catalytic Regeneration",
@@ -27,5 +25,3 @@
       "shapE_STArea__": 7802.99206543,
       "shapE_STLength__": 384.83763412
     }
-  ]
-}
